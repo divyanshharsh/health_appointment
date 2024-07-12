@@ -18,8 +18,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+
 
 ## 🚨 Tutorial
 
@@ -76,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
-cd healthcare
+git clone https://github.com/divyanshharsh/health_appointment.git
+cd health_appointment
 ```
 
 **Installation**
